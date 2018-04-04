@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>lang-cebuano</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>Language: Cebuano</name>
+	<description>Support for processing Cebuano documents</description>
 
 	<licenses>
 		<license>
